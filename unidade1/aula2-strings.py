@@ -28,4 +28,21 @@ print(s[::3])
 print(s[::-1])
 print(s[::-3])
 
+#concatenando strings
+print(s+' concat')
+#string não alterada
+print(s)
+s = s + ' concat'
+print(s)
 
+#multiplicando string
+s = 'valor inicial'
+print(s)
+s = s*2
+print(s)
+
+
+#métodos
+s = 'VALOR PARA MÉTODOS'
+print(s.lower())
+print(s.split("A"))
