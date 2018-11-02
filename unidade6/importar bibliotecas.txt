@@ -1,0 +1,1 @@
+Para importar bibiotecas é só digitar o comando "pip nome_da_biblioteca" no terminal. Depois só importar ela no projeto
