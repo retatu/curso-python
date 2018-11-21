@@ -1,0 +1,18 @@
+l = [1,2,3]
+l.append((1,2,3))
+print(l)
+l.pop()
+print(l)
+l.append(2)
+print(l.count(2))
+#adicionará os valores separados, não em uma lista
+l.extend([1,2,3])
+print(l)
+l.insert(2, 5)
+print(l)
+l.remove(1)
+print(l)
+l.reverse()
+print(l)
+l.sort()
+print(l)
